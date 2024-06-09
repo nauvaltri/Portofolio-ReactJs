@@ -11,11 +11,12 @@ export const Contact = () => {
         <p>Feel free to reach out!</p>
       </div>
       <ul className={styles.links}>
-        <li className={styles.link}>
-          <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-          <a href="naufaltrisubakti2003@mail.ugm.ac.id">naufaltrisubakti2003@mail.ugm.ac.id</a>
-        </li>
-        <li className={styles.link}>
+      <li className={styles.link}>
+  <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
+  <a href="mailto:naufaltrisubakti2003@mail.ugm.ac.id">naufaltrisubakti2003@mail.ugm.ac.id</a>
+</li>
+
+<li className={styles.link}>
           <img
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
@@ -25,6 +26,10 @@ export const Contact = () => {
         <li className={styles.link}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
           <a href="https://github.com/nauvaltri">github.com/nauvaltri</a>
+        </li> 
+        <li className={styles.link}>
+          <img src={getImageUrl("contact/whatsappIcon.png")} alt="Github icon" />
+          <a href="https://wa.me/+6285600896081">wa.me/naufaltrisubakti</a>
         </li>
       </ul>
     </footer>

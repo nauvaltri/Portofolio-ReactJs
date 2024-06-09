@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
         I'm a UI/UX Designer,Graphic Designer, Front-End Web Developer, Front-End Mobile Developer, and System Analyst  .
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:naufaltrisubakti2003@mail.ugm.ac.id" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>

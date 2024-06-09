@@ -48,8 +48,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Graphic Designer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                Translating messages or ideas into visual designs that are understandable and appealing to the target audience.
               </p>
             </div>
           </li>

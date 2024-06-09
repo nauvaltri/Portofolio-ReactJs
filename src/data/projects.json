@@ -24,6 +24,14 @@
     "source": "https://github.com/nauvaltri/Sillaboe-V1-TRPL.git"
   },
   {
+    "title": "Silaboe V2",
+    "imageSrc": "projects/Silaboe V2.jpeg",
+    "description": "Front End Dev | The TRPL Laboratory Information System V2 project was created to facilitate students in borrowing lab spaces.",
+    "skills": ["Laravel","Tailwind CSS","Java Script"],
+    "demo": "#",
+    "source": "https://github.com/nauvaltri/Silaboe-FE-V2.git"
+  },
+  {
     "title": "Skin Diary Apps",
     "imageSrc": "projects/SkinDairy.jpeg",
     "description": "UI/UX Design | This application project is an innovation in finding safe skincare for users.",
@@ -39,14 +47,7 @@
     "demo": "#",
     "source": "https://www.figma.com/design/6S5QotAV4Vd8T625sIM40z/Untitled?node-id=0-1&t=RFhdBcRdt5Fj7Pw2-1"
   },
-  {
-    "title": "Silaboe (Sistem Informasi Laboratorium) V2",
-    "imageSrc": "projects/Silaboe V2.jpeg",
-    "description": "Front End Dev | The TRPL Laboratory Information System V2 project was created to facilitate students in borrowing lab spaces.",
-    "skills": ["Laravel","Tailwind CSS","Java Script"],
-    "demo": "#",
-    "source": "https://github.com/nauvaltri/Silaboe-FE-V2.git"
-  },
+  
   {
     "title": "Modeling a real 3D object.",
     "imageSrc": "projects/Blender.png",
@@ -60,7 +61,7 @@
     "imageSrc": "projects/Portofolio.png",
     "description": "Web Development | This project creates a portfolio in the form of a website using advanced technology.",
     "skills": ["React Js","CSS"],
-    "demo": "#",
-    "source": "https://github.com/nauvaltri/Portofolio-ReactJs"
+    "demo": "https://naufaltrisubakti.vercel.app/",
+    "source": "https://github.com/nauvaltri/portonaufaltrisubakti.git"
   }
 ]
