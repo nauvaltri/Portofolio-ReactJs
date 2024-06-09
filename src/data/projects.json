@@ -5,7 +5,7 @@
     "description": "UI/UX Design |This application's UI/UX project is integrated with Augmented Reality",
     "skills": ["Figma"],
     "demo": "#",
-    "source": "https://www.github.com"
+    "source": "https://www.figma.com/design/0POXdcuMpuYun91PNt3naY/FlexiFun?node-id=0-1&t=SDRliNcYXy8gN7K3-1"
   },
   {
     "title": "REVIVE Apps",
@@ -13,7 +13,7 @@
     "description": "UI/UX Design and Front-End Dev | This project was created to manage green open space integrated with IoT.",
     "skills": ["Figma", "Flutter"],
     "demo": "#",
-    "source": "https://www.github.com"
+    "source": "https://www.figma.com/design/gDzyHF3n6hcYCJzaC3RXc7/REVIVE?node-id=0-1&t=NVlquHvGkrkOy8ZB-1"
   },
   {
     "title": "Website Silaboe V1",
@@ -21,15 +21,15 @@
     "description": "Front-End Dev | This TRPL laboratory information system project was created to effectively manage laboratory operations.",
     "skills": ["Laravel", "Java Script", "Tailwind CSS"],
     "demo": "#",
-    "source": "https://www.github.com"
+    "source": "https://github.com/nauvaltri/Sillaboe-V1-TRPL.git"
   },
   {
     "title": "Skin Diary Apps",
     "imageSrc": "projects/SkinDairy.jpeg",
     "description": "UI/UX Design | This application project is an innovation in finding safe skincare for users.",
     "skills": ["Figma"],
-    "demo": "#",
-    "source": "https://www.figma.com/proto/NldYxZtYU1LmPFbpCE8oxk/SkinDiary?node-id=60-205&t=0fFbjVOqJKLbL53n-1&scaling=scale-down&page-id=8%3A54&starting-point-node-id=60%3A211"
+    "demo": "https://www.figma.com/proto/NldYxZtYU1LmPFbpCE8oxk/SkinDiary?node-id=60-205&t=0fFbjVOqJKLbL53n-1&scaling=scale-down&page-id=8%3A54&starting-point-node-id=60%3A211",
+    "source": "https://www.figma.com/design/NldYxZtYU1LmPFbpCE8oxk/SkinDiary?node-id=162-315&t=ZToikAVCIQ2DjWpn-1"
   },
   {
     "title": "Sistem Informasi Pasien",
@@ -37,7 +37,7 @@
     "description": "UI/UX Design | This project is designed to facilitate patients during registration.",
     "skills": ["Figma"],
     "demo": "#",
-    "source": "https://www.github.com"
+    "source": "https://www.figma.com/design/6S5QotAV4Vd8T625sIM40z/Untitled?node-id=0-1&t=RFhdBcRdt5Fj7Pw2-1"
   },
   {
     "title": "Silaboe (Sistem Informasi Laboratorium) V2",
@@ -45,7 +45,7 @@
     "description": "Front End Dev | The TRPL Laboratory Information System V2 project was created to facilitate students in borrowing lab spaces.",
     "skills": ["Laravel","Tailwind CSS","Java Script"],
     "demo": "#",
-    "source": "https://www.github.com"
+    "source": "https://github.com/nauvaltri/Silaboe-FE-V2.git"
   },
   {
     "title": "Modeling a real 3D object.",
@@ -61,6 +61,6 @@
     "description": "Web Development | This project creates a portfolio in the form of a website using advanced technology.",
     "skills": ["React Js","CSS"],
     "demo": "#",
-    "source": "https://www.github.com"
+    "source": "https://github.com/nauvaltri/Portofolio-ReactJs"
   }
 ]
