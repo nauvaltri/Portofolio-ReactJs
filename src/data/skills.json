@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "skills/laravel.png"
+  },
+  {
+    "title": "Java Script",
+    "imageSrc": "skills/JavaScript.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Kotlin",
+    "imageSrc": "skills/Kotlin.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/Bootstrap.png"
+  },
+  {
+    "title": "Flutter",
+    "imageSrc": "skills/Flutter.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/Python.png"
+  },
+  {
+    "title": "Blender",
+    "imageSrc": "skills/blender.png"
+  }
+]

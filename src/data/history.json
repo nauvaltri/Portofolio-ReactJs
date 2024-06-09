@@ -1,0 +1,19 @@
+[
+  {
+    "role": "UI/UX Designer",
+    "organisation": "Gemastik",
+    "startDate": "July,2024",
+    "endDate": "Present",
+    "experiences": ["Designing the Wireframe,High Fidelity, and Prototype for the Application"],
+    "imageSrc": "history/logo-gemastik.png"
+  },
+  {
+    "role": "UI/UX Designer and Front-End Dev",
+    "organisation": "Gemastik",
+    "startDate": "July,2024",
+    "endDate": "Present",
+    "experiences": ["Designing the Wireframe,High Fidelity, and Prototype for the Application","Creating a mobile front-end layout with Flutter and Dart."],
+    "imageSrc": "history/logo-gemastik.png"
+  }
+  
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "title": "FlexiFun Apps",
+    "imageSrc": "projects/FlexiFun.png",
+    "description": "UI/UX Design |This application's UI/UX project is integrated with Augmented Reality",
+    "skills": ["Figma"],
+    "demo": "#",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "REVIVE Apps",
+    "imageSrc": "projects/Reevive.png",
+    "description": "UI/UX Design and Front-End Dev | This project was created to manage green open space integrated with IoT.",
+    "skills": ["Figma", "Flutter"],
+    "demo": "#",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Website Silaboe V1",
+    "imageSrc": "projects/Silaboe V1.png",
+    "description": "Front-End Dev | This TRPL laboratory information system project was created to effectively manage laboratory operations.",
+    "skills": ["Laravel", "Java Script", "Tailwind CSS"],
+    "demo": "#",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Skin Diary Apps",
+    "imageSrc": "projects/SkinDairy.jpeg",
+    "description": "UI/UX Design | This application project is an innovation in finding safe skincare for users.",
+    "skills": ["Figma"],
+    "demo": "#",
+    "source": "https://www.figma.com/proto/NldYxZtYU1LmPFbpCE8oxk/SkinDiary?node-id=60-205&t=0fFbjVOqJKLbL53n-1&scaling=scale-down&page-id=8%3A54&starting-point-node-id=60%3A211"
+  },
+  {
+    "title": "Sistem Informasi Pasien",
+    "imageSrc": "projects/SI Kesehatan.png",
+    "description": "UI/UX Design | This project is designed to facilitate patients during registration.",
+    "skills": ["Figma"],
+    "demo": "#",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Silaboe (Sistem Informasi Laboratorium) V2",
+    "imageSrc": "projects/Silaboe V2.jpeg",
+    "description": "Front End Dev | The TRPL Laboratory Information System V2 project was created to facilitate students in borrowing lab spaces.",
+    "skills": ["Laravel","Tailwind CSS","Java Script"],
+    "demo": "#",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Modeling a real 3D object.",
+    "imageSrc": "projects/Blender.png",
+    "description": "Grapic Design | This project creates 3D modeling assets of objects in the vicinity.",
+    "skills": ["Blender"],
+    "demo": "#",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Website Portofolio",
+    "imageSrc": "projects/Portofolio.png",
+    "description": "Web Development | This project creates a portfolio in the form of a website using advanced technology.",
+    "skills": ["React Js","CSS"],
+    "demo": "#",
+    "source": "https://www.github.com"
+  }
+]
