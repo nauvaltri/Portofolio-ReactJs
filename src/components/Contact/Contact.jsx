@@ -24,7 +24,7 @@ export const Contact = () => {
         </li> 
         <li className={styles.link}>
           <img src={getImageUrl("contact/whatsappIcon.png")} alt="WhatsApp icon" />
-          <a href="https://wa.me/+6285600896081">wa.me/naufaltrisubakti</a>
+          <a href="https://wa.me/+6285600896081">+62 856 0089 6081</a>
         </li>
       </ul>
     </footer>

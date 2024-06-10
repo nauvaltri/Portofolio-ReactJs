@@ -4,7 +4,7 @@
     "imageSrc": "projects/FlexiFun.png",
     "description": "UI/UX Design |This application's UI/UX project is integrated with Augmented Reality",
     "skills": ["Figma"],
-    "demo": "#",
+    "demo": "https://www.figma.com/proto/0POXdcuMpuYun91PNt3naY/FlexiFun?page-id=0%3A1&node-id=266-1658&viewport=2471%2C-1943%2C0.39&t=63a3nc2zlGwJKCGB-1&scaling=scale-down&starting-point-node-id=266%3A1658",
     "source": "https://www.figma.com/design/0POXdcuMpuYun91PNt3naY/FlexiFun?node-id=0-1&t=SDRliNcYXy8gN7K3-1"
   },
   {
@@ -12,7 +12,7 @@
     "imageSrc": "projects/Reevive.png",
     "description": "UI/UX Design and Front-End Dev | This project was created to manage green open space integrated with IoT.",
     "skills": ["Figma", "Flutter"],
-    "demo": "#",
+    "demo": "https://www.figma.com/proto/gDzyHF3n6hcYCJzaC3RXc7/REVIVE?page-id=0%3A1&node-id=30-2139&viewport=224%2C283%2C0.06&t=AxPHlJTqWUrGKGOT-1&scaling=scale-down&starting-point-node-id=247%3A988&content-scaling=fixed",
     "source": "https://www.figma.com/design/gDzyHF3n6hcYCJzaC3RXc7/REVIVE?node-id=0-1&t=NVlquHvGkrkOy8ZB-1"
   },
   {
@@ -44,8 +44,8 @@
     "imageSrc": "projects/SI Kesehatan.png",
     "description": "UI/UX Design | This project is designed to facilitate patients during registration.",
     "skills": ["Figma"],
-    "demo": "#",
-    "source": "https://www.figma.com/design/6S5QotAV4Vd8T625sIM40z/Untitled?node-id=0-1&t=RFhdBcRdt5Fj7Pw2-1"
+    "demo": "https://www.figma.com/proto/lRXptwJ15SXRp3hVY9eWKL/SRP?page-id=0%3A1&node-id=1-517&viewport=-299%2C-75%2C0.12&t=CNdQUhS930Q4euyh-1&scaling=scale-down&starting-point-node-id=1%3A147&content-scaling=fixed",
+    "source": "https://www.figma.com/design/lRXptwJ15SXRp3hVY9eWKL/SRP?node-id=0-1&t=Zkh7EhiCuKpgkr2B-1"
   },
   
   {
@@ -53,14 +53,22 @@
     "imageSrc": "projects/Blender.png",
     "description": "Grapic Design | This project creates 3D modeling assets of objects in the vicinity.",
     "skills": ["Blender"],
-    "demo": "",
-    "source": "#"
+    "demo": "https://drive.google.com/drive/folders/1P5xbgvDQHQP43xcO4HLF_6aZgg2p6vUn?usp=sharing",
+    "source": "https://drive.google.com/drive/folders/1P5xbgvDQHQP43xcO4HLF_6aZgg2p6vUn?usp=sharing"
   },
   {
     "title": "Website Portofolio",
     "imageSrc": "projects/Portofolio.png",
     "description": "Web Development | This project creates a portfolio in the form of a website using advanced technology.",
     "skills": ["React Js","CSS"],
+    "demo": "https://naufaltrisubakti.vercel.app/",
+    "source": "https://github.com/nauvaltri/portonaufaltrisubakti.git"
+  },
+  {
+    "title": "Portofolio Bisnis",
+    "imageSrc": "projects/asakitasama.png",
+    "description": "UI/UX Design | This application is a platform for selling UI/UX design services in Yogyakarta.",
+    "skills": ["Figma"],
     "demo": "https://naufaltrisubakti.vercel.app/",
     "source": "https://github.com/nauvaltri/portonaufaltrisubakti.git"
   }

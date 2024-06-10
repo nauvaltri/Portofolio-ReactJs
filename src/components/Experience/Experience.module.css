@@ -28,6 +28,9 @@
   flex-wrap: wrap;
   gap: 37px;
 }
+.skillImageContainer:hover {
+  transform: scale(1.1); /* Ubah scale menjadi transform: scale() */
+}
 
 .skill {
   display: flex;
