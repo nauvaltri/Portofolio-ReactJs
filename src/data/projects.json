@@ -71,5 +71,14 @@
     "skills": ["Figma"],
     "demo": "https://naufaltrisubakti.vercel.app/",
     "source": "https://github.com/nauvaltri/portonaufaltrisubakti.git"
+  },
+  {
+    "title": "  Charity Concert",
+    "imageSrc": "projects/Charity Concert.png",
+    "description": "UI/UX Design | Charity concert website application aimed at assisting victims of natural disasters.",
+    "skills": ["Figma"],
+    "demo": "https://www.figma.com/proto/JcwxE7h330nsdDioqzjdzz/UI%2FUX-Web-Design-Suidmedia?page-id=0%3A1&node-id=27-66&viewport=366%2C280%2C0.29&t=4isxk1DEYRDcFlDG-1&scaling=min-zoom&content-scaling=fixed",
+    "source": "https://www.figma.com/design/JcwxE7h330nsdDioqzjdzz/UI%2FUX-Web-Design-Suidmedia?node-id=47-604&t=O5ttcvCm2ccQp4LY-1"
   }
 ]
+
